@@ -12,3 +12,4 @@ D:\OPAM\opam_lab7\obj\Debug\net10.0\refint\OPAM.dll
 D:\OPAM\opam_lab7\obj\Debug\net10.0\OPAM.pdb
 D:\OPAM\opam_lab7\obj\Debug\net10.0\OPAM.genruntimeconfig.cache
 D:\OPAM\opam_lab7\obj\Debug\net10.0\ref\OPAM.dll
+D:\OPAM\opam_lab7\obj\Debug\net10.0\OPAM.sourcelink.json
