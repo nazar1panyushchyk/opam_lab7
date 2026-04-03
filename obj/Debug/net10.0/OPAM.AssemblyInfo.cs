@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPAM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86935527de8ec48607176803ce889e4e1301db16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f0c09009b4c9d5f80323ad641940a5acd82f03")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPAM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPAM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

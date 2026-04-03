@@ -1,6 +1,7 @@
 ﻿using System;
 using Banking;
 using Closures;
+using Pricing;
 
 class Program
 {
@@ -11,6 +12,9 @@ class Program
 
         Console.WriteLine("=== Завдання 2 ===");
         RunBankTerminalWithDelegate();
+
+        Console.WriteLine("\n=== Завдання 3 ===");
+        Discount.Run();
     }
 
     static void RunBankTerminalWithDelegate()
